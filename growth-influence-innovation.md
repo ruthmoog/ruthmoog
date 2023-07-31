@@ -24,3 +24,4 @@
 * Awarded a runner-up prize in the Dev x GitHub 2023 Hackathon for GitHub.com/ruthmoog/bee
 * Contributing to Open Source book Learn Go With Tests
 * Worked on innovation ideas at Alfa incl environmental accounting and a recycling education game
+* Worked with Singing For Breathing with a fundraising dance marathon and creating their website for free
